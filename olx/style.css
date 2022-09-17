@@ -1,0 +1,525 @@
+#phela{
+    position: relative;
+    top: -130px;
+    left: 50px;
+    color: blue;
+    
+}
+.pheli{
+    
+    position: relative;
+    left: 180px;
+    top: -225px;
+    
+}
+.dusri{
+    
+    position: relative;
+    left: 320px;
+    top: -254px;
+    
+}
+#lap{
+    position: relative;
+    top: -120px;
+    left: 50px;
+}
+.laptop{
+    position: absolute;
+    left: 180px;
+    top: 70px;
+    width: 250px;
+    height: 45px;
+}
+.topi{
+    color: black;
+    position: relative;
+    left: 170px;
+    top: -20px;
+  
+
+}
+#topi{
+    color: black;
+    position: relative;
+    left: 200px;
+    top: -20px;
+    
+}
+
+#baja{
+    color: black;
+    position: relative;
+    left: 230px;
+    top: -20px;
+    
+}
+
+#tanki{
+    color: black;
+    position: relative;
+    left: 260px;
+    top: -20px;
+    
+
+}
+
+#wall{
+    color: black;
+    position: relative;
+    left: 290px;
+    top: -20px;
+    
+}
+
+#bakra{
+    color: black;
+    position: relative;
+    left: 320px;
+    top: -20px;
+    
+}
+
+#cow{
+    color: black;
+    position: relative;
+    left: 350px;
+    top: -20px;
+    
+}
+
+
+#spe{
+    position: absolute;
+    left: 470px;
+    top: 70px;
+    
+}
+.spe{
+    position: absolute;
+    left: 800px;
+    top: 70px;
+}
+#main{
+    background-color: whitesmoke;
+    height: 150px;
+}
+
+.button:hover{
+    background-color: blue;
+    color: white;
+
+    
+}
+#pop{
+    position: absolute;
+    left: 30px;
+}
+.k :link{
+    color:black;
+    position: absolute;
+    left: 500px;
+    top: 2030px;
+    text-decoration: none;
+} 
+
+.op{
+    position: absolute;
+    top: 2000px;
+}
+
+.h{
+    position: absolute;
+    left: 500px;
+    top: 2110px;
+}
+
+.m{
+
+    position: absolute;
+    left: 1000px;
+    top: 2080px;
+}
+.n{
+
+    position: absolute;
+    left: 1000px;
+    top: 2130px;
+}
+.i{
+
+    position: absolute;
+    left: 1110px;
+    top: 2130px;
+}
+.s{
+
+    position: absolute;
+    left: 1220px;
+    top: 2130px;
+} 
+
+.bu{
+    position: absolute;
+    top: 1900px;
+    left: 600px;
+}
+.buy{
+    
+    position: relative;
+    top: 0px;
+    
+}
+
+.foo{
+    position: absolute;
+    top: 2000px;
+    left: 900px;
+}
+
+#footer{
+    background-color: whitesmoke;
+    position: absolute;
+    top: 2748px;
+    
+    
+}
+
+#last{
+    position: relative;
+    bottom: 300px;
+    left: 2px;
+}
+
+#a{
+    
+    position: absolute;
+    left: 20px;
+    top: 30px;
+
+}
+
+#b :link{
+    position: absolute;
+    left: 20px;
+    top: 60px;
+    text-decoration: none;
+}
+
+#c :link{
+    position: absolute;
+    left: 20px;
+    top: 90px;
+    text-decoration: none;
+}
+
+#d :link{
+    position: absolute;
+    left: 20px;
+    top: 120px;
+    text-decoration: none;
+}
+
+#e :link{
+    position: absolute;
+    left: 20px;
+    top: 150px;
+    text-decoration: none;
+}
+
+#f{
+
+    position: absolute;
+    left: 250px;
+    top: 30px;
+}
+
+#g :link{
+    position: absolute;
+    left: 250px;
+    top: 60px;
+    text-decoration: none;
+}
+
+#j :link{
+    position: absolute;
+    left: 250px;
+    top: 90px;
+    text-decoration: none;
+}
+
+#l :link{
+    position: absolute;
+    left: 250px;
+    top: 120px;
+    text-decoration: none;
+}
+
+#o :link{
+    position: absolute;
+    left: 250px;
+    top: 150px;
+    text-decoration: none;
+}
+
+#p{
+    
+    position: absolute;
+    left: 500px;
+    top: 30px;
+}
+
+#q :link{
+    position: absolute;
+    left: 500px;
+    top: 60px;
+    text-decoration: none;
+}
+
+
+
+#r :link{
+    position: absolute;
+    left: 500px;
+    top: 90px;
+    text-decoration: none;
+}
+
+#t :link{
+    position: absolute;
+    left: 500px;
+    top: 120px;
+    text-decoration: none;
+}
+
+#u :link{
+    position: absolute;
+    left: 500px;
+    top: 150px;
+    text-decoration: none;
+}
+
+#v{
+    position: absolute;
+    left: 750px;
+    top: 30px;
+    
+}
+
+#w :link{
+    position: absolute;
+    left: 750px;
+    top: 60px;
+    text-decoration: none;
+}
+
+
+#x :link{
+    position: absolute;
+    left: 750px;
+    top: 90px;
+    text-decoration: none;
+}
+
+
+#y :link{
+    position: absolute;
+    left: 750px;
+    top: 120px;
+    text-decoration: none;
+}
+
+
+#z :link{
+    position: absolute;
+    left: 750px;
+    top: 150px;
+    text-decoration: none;
+}
+
+#pakistan{
+    position: absolute;
+    left: 1000px;
+    top: 40px;
+
+}
+
+#quaid-e-azam{
+    position: absolute;
+    left: 990px;
+    top: 60px;
+}
+
+#zindabad{
+    position: absolute;
+    left: 1020px;
+    top: 60px;
+}
+
+#karachi{
+    position: absolute;
+    left: 1050px;
+    top: 60px;
+}
+
+#lahore{
+    position: absolute;
+    left: 1080px;
+    top: 60px;
+}
+
+#islamabad{
+    position: absolute;
+    left: 995px;
+    top: 150px;
+}
+
+#quetta{
+    position: absolute;
+    left: 1100px;
+    top: 150px;
+}
+
+
+#peshawar{
+    position: absolute;
+    left: 1205px;
+    top: 150px;
+}
+
+#khatam{
+
+    position: absolute;
+    left: 980px;
+    top: 1900px;
+    
+}
+.kk{
+    color: dimgray;
+    position: relative;
+    left: 50px;
+}
+.bb{
+    position: absolute;
+    left: 20px;
+    
+}
+.ee{
+    position: absolute;
+    left: 340px;
+}
+.rr{
+    position: absolute;
+    left: 650px;
+}
+.tt{
+    position: absolute;
+    left: 960px;
+}
+.qq{
+    position: absolute;
+    left: 25px;
+    top: 300px;
+}
+.tv{
+    position: absolute;
+    left: 960px;
+    top: 300px;
+    
+
+}
+.yy{
+    position: absolute;
+    left: 340px;
+    top: 300px;
+}
+.uu{
+    position: absolute;
+    left: 645px;
+    top: 300px;
+}
+.ii{
+    position: absolute;
+    left: 960px;
+    top: 600px;
+}
+.oo{
+    position: absolute;
+    left: 20px;
+    top: 600px;
+}
+.aa{
+    position: absolute;
+    left: 340px;
+    top: 600px;
+}
+.ss{
+    position: absolute;
+    left: 655px;
+    top: 600px;
+}
+.dd{
+    position: absolute;
+    left: 20px;
+    top: 900px;
+}
+.gg{
+    position: absolute;
+    left: 340px;
+    top: 900px;
+}
+.cc{
+    position: absolute;
+    left: 655px;
+    top: 900px;
+}
+.mm{
+    position: absolute;
+    left: 960px;
+    top: 900px;
+}
+
+.ll{
+    position: absolute;
+    left: 20px;
+    top: 1200px;
+}
+.xx{
+    position: absolute;
+    left: 340px;
+    top: 1200px;
+}
+.hh{
+    position: absolute;
+    left: 655px;
+    top: 1200px;
+}
+.hk{
+    position: absolute;
+    left: 970px;
+    top: 1200px;
+}
+.lm{
+    position: absolute;
+    left: 20px;
+    top: 1500px;
+}
+
+.kn{
+    position: absolute;
+    left: 340px;
+    top: 1500px;
+}
+.hn{
+    position: absolute;
+    left: 655px;
+    top: 1500px;
+}
+.ln{
+    position: absolute;
+    left: 960px;
+    top: 1500px;
+}
+
+
+
